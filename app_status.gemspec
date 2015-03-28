@@ -3,7 +3,7 @@ require File.expand_path('../lib/app_status/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Jared Fraser"]
-  gem.email         = ["xanatosredfern@gmail.com"]
+  gem.email         = ["dev@jsf.io"]
   gem.description   = %q{TODO: Write a gem description}
   gem.summary       = %q{TODO: Write a gem summary}
   gem.homepage      = ""
